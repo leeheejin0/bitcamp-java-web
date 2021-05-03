@@ -1,1 +1,1 @@
-# File
+# src/main/resources
